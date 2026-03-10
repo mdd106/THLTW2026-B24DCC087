@@ -44,7 +44,6 @@
 	},
 	{path: '/Baitap1',
 		name: 'Baitap1',
-		icon: 'OrderedListOutlined',
 		component: './Baitap1',
 	},
 
