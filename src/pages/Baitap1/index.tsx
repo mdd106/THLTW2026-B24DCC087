@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+  import React, { useState } from 'react';
 
 const OanTuTi = () => {
   const [userChoice, setUserChoice] = useState<string>('');
