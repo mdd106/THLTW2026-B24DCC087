@@ -51,7 +51,11 @@
 		component: './Baitap1TH2',
 	},
 
-
+{
+	path: "/Th03",
+	name: "Thuc Hanh 3",
+	component: './BTH03',
+},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
