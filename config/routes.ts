@@ -1,4 +1,6 @@
-﻿export default [
+﻿import component from "@/locales/en-US/component";
+
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -42,19 +44,11 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
-	{path: '/Baitap1',
-		name: 'Baitap1',
-		component: './Baitap1',
-	},
-	{path: '/Baitap1TH2',
-		name: 'Baitap1TH2',
-		component: './Baitap1TH2',
-	},
-
 {
-	path: "/Th03",
-	name: "Thuc Hanh 3",
-	component: './BTH03',
+	path: '/TH05',
+	name: 'TH05',
+	icon: 'text',
+	component: './TH05',
 },
 	// DANH MUC HE THONG
 	// {
