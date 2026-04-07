@@ -17,7 +17,11 @@ export default [
 			},
 		],
 	},
-
+{
+	path: '/PlanTour',
+	name: 'Tour',
+	component
+},
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
