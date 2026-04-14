@@ -1,6 +1,4 @@
-﻿import component from "@/locales/en-US/component";
-
-export default [
+﻿export default [
 	{
 		path: '/user',
 		layout: false,
@@ -17,11 +15,7 @@ export default [
 			},
 		],
 	},
-{
-	path: '/PlanTour',
-	name: 'Tour',
-	component
-},
+
 	///////////////////////////////////
 	// DEFAULT MENU
 	{
@@ -49,10 +43,10 @@ export default [
 		component: './TodoList',
 	},
 {
-	path: '/TH05',
-	name: 'TH05',
-	icon: 'text',
-	component: './TH05',
+path: '/KTGK',
+name: 'KTGK',
+icon: 'FileTextOutlined',
+component: './KTGK',
 },
 	// DANH MUC HE THONG
 	// {
