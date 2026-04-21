@@ -25,6 +25,12 @@
 		icon: 'HomeOutlined',
 	},
 	{
+		path: '/blog',
+		name: 'BlogCaNhan',
+		component: './BlogCaNhan',
+		icon:'HomeOutLined',
+	},
+	{
 		path: '/gioi-thieu',
 		name: 'About',
 		component: './TienIch/GioiThieu',
