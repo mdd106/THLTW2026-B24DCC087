@@ -49,10 +49,10 @@
 		component: './TodoList',
 	},
 {
-path: '/KTGK',
-name: 'KTGK',
+path: '/Manage',
+name: 'Managefitness',
 icon: 'FileTextOutlined',
-component: './KTGK',
+component: './Manage',
 },
 	// DANH MUC HE THONG
 	// {
