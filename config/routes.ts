@@ -1,4 +1,6 @@
-﻿export default [
+﻿import component from "@/locales/en-US/component";
+
+export default [
 	{
 		path: '/user',
 		layout: false,
@@ -53,6 +55,12 @@ path: '/Manage',
 name: 'Managefitness',
 icon: 'FileTextOutlined',
 component: './Manage',
+},
+{
+	path: '/ManageTask',
+	name: "Quan Ly CV Ca Nhan",
+	component: "./ManageTask",
+
 },
 	// DANH MUC HE THONG
 	// {
